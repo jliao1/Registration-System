@@ -1,4 +1,4 @@
-# HW4: Registration System
+# Registration System
 
 Is your solution fully working or not?
 Yes
